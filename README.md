@@ -1,4 +1,4 @@
-# 📒 Notes & Bookmarks Manager (No Auth)
+# 📒 Notes & Bookmarks Manager
 
 A **full-stack web app** to manage personal notes and bookmarks — built with **Node.js**, **Express**, **MongoDB**, and **Next.js (React)**. Users can add, edit, delete, search, tag, and favorite their notes and bookmarks.
 
